@@ -37,3 +37,4 @@ yarn-error.log*
 .vscode
 yarn.lock
 next-env.d.ts
+.vercel
