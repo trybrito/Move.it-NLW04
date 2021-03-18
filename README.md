@@ -47,7 +47,7 @@
 ### 🏆 Features
 
 - [X] Criar a estilização global da aplicação;
-- [X] Implementar a barra de experiência do usuário, que contém a experiência inicial, atual e necessária para o próximo nível;
+- [X] Implementar a barra de experiência do usuário, que compreende a experiência inicial, atual e necessária para o próximo nível;
 - [X] Desenvolver o componente de perfil, que engloba a foto de perfil do usuário e seu nome e nível atual;
 - [X] Adicionar o componente responsável pela contagem dos desafios concluídos;
 - [X] Implementar o componente de cronômetro, responsável pela marcação do tempo de cada ciclo;
@@ -129,5 +129,5 @@ $ yarn dev
 <p>
     <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
         |   
-    <a href="">English (en-us)</a>
+    <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
 </p>
