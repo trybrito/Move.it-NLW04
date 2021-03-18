@@ -47,7 +47,7 @@
 ### 🏆 Features
 
 - [X] Create application global stylization;
-- [X] Implement the user experience bar, which has the initial, current and necessary experience for the next level;
+- [X] Implement the user experience bar, which comprises the initial, current and necessary experience for the next level;
 - [X] Develop the profile component, which includes the user's profile photo and your name and current level;
 - [X] Add the component responsible for counting the completed challenges;
 - [X] Implement the chronometer component, responsible for marking the time of each cycle;
@@ -129,5 +129,5 @@ $ yarn dev
 <p>
     <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
         |   
-    <a href="">English (en-us)</a>
+    <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
 </p>
