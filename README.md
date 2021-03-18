@@ -53,6 +53,7 @@
 - [X] Implementar o componente de cronômetro, responsável pela marcação do tempo de cada ciclo;
 - [X] Adicionar o componente dos desafios, o qual busca e retorna, de maneira aleatória, desafios cadastrados internamente;
 - [X] Adicionar o componente do modal de level up;
+- [X] Implementar notificações escritas e sonoras, que são exibidas ao usuário a cada ciclo encerrado; 
 - [X] Estabelecer a reatividade de toda a aplicação a partir do uso da context API do React;
 - [ ] Implementar um sistema de login de múltiplas opções;
 - [ ] Desenvolver e implementar um leaderboard com base no nível dos usuário;
