@@ -31,7 +31,7 @@
 ### 🎯 About the project
 
 <p>
-    Based on a gamified approach, Move.it aims to increase the effectiveness and simplify the application of the Pomodoro Technique, that is, a cyclic method of time management, as well as to increase the quality of life of its user, a since with each new cycle he will receive a challenge related to his physical and mental health, such as walking and stretching.
+    Based on a gamified approach, Move.it aims to increase the effectiveness and simplify the application of the Pomodoro Technique, that is, a cyclic method of time management, as well as, to increase the quality of life of its user, a since with each new cycle he will receive a challenge related to his physical and mental health, such as walking and stretching.
 </p>
 
 <hr>
@@ -57,7 +57,7 @@
 - [ ] Implement a multiple option login system;
 - [ ] Develop and implement a leaderboard based on users level;
 - [ ] Add a side navigation bar for the quick transition between the main screen and the leaderboard;
-- [ ] Add sharing system on social networks in the level up mode; and
+- [ ] Add sharing system on social networks in the level up modal; and
 - [ ] Display information related to the use of the application to the user, such as total experience and time of use;
 
 <hr>
