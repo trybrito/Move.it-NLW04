@@ -53,6 +53,7 @@
 - [X] Implement the chronometer component, responsible for marking the time of each cycle;
 - [X] Add the challenges component, which searches and returns, at random, challenges registered internally;
 - [X] Add the level up modal component;
+- [X] Implement written and audible notifications, which are displayed to the user at each finished cycle;
 - [X] Establish the reactivity of the entire application using the React API context;
 - [ ] Implement a multiple option login system;
 - [ ] Develop and implement a leaderboard based on users level;
