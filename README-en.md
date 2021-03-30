@@ -46,7 +46,7 @@
 
 ### 🏆 Features
 
-- [X] Create application global stylization;
+- [X] Create the global styles of the application;
 - [X] Implement the user experience bar, which comprises the initial, current and necessary experience for the next level;
 - [X] Develop the profile component, which includes the user's profile photo and your name and current level;
 - [X] Add the component responsible for counting the completed challenges;
