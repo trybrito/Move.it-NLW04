@@ -40,21 +40,21 @@
 
 <h3 align="center"> 
 	🚧  Move.it 🕹️ Em construção... 🚧
-</h3> 
+</h3>
 
 <hr>
 
 ### 🏆 Features
 
-- [X] Criar a estilização global da aplicação;
-- [X] Implementar a barra de experiência do usuário, que compreende a experiência inicial, atual e necessária para o próximo nível;
-- [X] Desenvolver o componente de perfil, que engloba a foto de perfil do usuário e seu nome e nível atual;
-- [X] Adicionar o componente responsável pela contagem dos desafios concluídos;
-- [X] Implementar o componente de cronômetro, responsável pela marcação do tempo de cada ciclo;
-- [X] Adicionar o componente dos desafios, o qual busca e retorna, de maneira aleatória, desafios cadastrados internamente;
-- [X] Adicionar o componente do modal de level up;
-- [X] Implementar notificações escritas e sonoras, que são exibidas ao usuário a cada ciclo encerrado; 
-- [X] Estabelecer a reatividade de toda a aplicação a partir do uso da context API do React;
+- [x] Criar a estilização global da aplicação;
+- [x] Implementar a barra de experiência do usuário, que compreende a experiência inicial, atual e necessária para o próximo nível;
+- [x] Desenvolver o componente de perfil, que engloba a foto de perfil do usuário e seu nome e nível atual;
+- [x] Adicionar o componente responsável pela contagem dos desafios concluídos;
+- [x] Implementar o componente de cronômetro, responsável pela marcação do tempo de cada ciclo;
+- [x] Adicionar o componente dos desafios, o qual busca e retorna, de maneira aleatória, desafios cadastrados internamente;
+- [x] Adicionar o componente do modal de level up;
+- [x] Implementar notificações escritas e sonoras, que são exibidas ao usuário a cada ciclo encerrado;
+- [x] Estabelecer a reatividade de toda a aplicação a partir do uso da context API do React;
 - [ ] Implementar um sistema de login de múltiplas opções;
 - [ ] Desenvolver e implementar um leaderboard com base no nível dos usuário;
 - [ ] Adicionar uma barra de navegação lateral para a rápida transição entre a tela principal e o leaderboard;
@@ -89,6 +89,7 @@ $ yarn dev
 
 # E por fim, acesse <http://localhost:3000> para ver a aplicação no servidor local
 ```
+
 <hr>
 
 ### 🔮 Tecnologias utilizadas
@@ -104,7 +105,7 @@ $ yarn dev
 ### 🎓 Autor
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="275px">
+    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
