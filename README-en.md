@@ -104,7 +104,7 @@ $ yarn dev
 ### 🎓 Author
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="350px">
+    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="275px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
