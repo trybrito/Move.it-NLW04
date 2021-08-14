@@ -40,21 +40,21 @@
 
 <h3 align="center"> 
 	🚧  Move.it 🕹️ In progress... 🚧
-</h3> 
+</h3>
 
 <hr>
 
 ### 🏆 Features
 
-- [X] Create the global styles of the application;
-- [X] Implement the user experience bar, which comprises the initial, current and necessary experience for the next level;
-- [X] Develop the profile component, which includes the user's profile photo and your name and current level;
-- [X] Add the component responsible for counting the completed challenges;
-- [X] Implement the chronometer component, responsible for marking the time of each cycle;
-- [X] Add the challenges component, which searches and returns, at random, challenges registered internally;
-- [X] Add the level up modal component;
-- [X] Implement written and audible notifications, which are displayed to the user at each finished cycle;
-- [X] Establish the reactivity of the entire application using the React API context;
+- [x] Create the global styles of the application;
+- [x] Implement the user experience bar, which comprises the initial, current and necessary experience for the next level;
+- [x] Develop the profile component, which includes the user's profile photo and your name and current level;
+- [x] Add the component responsible for counting the completed challenges;
+- [x] Implement the chronometer component, responsible for marking the time of each cycle;
+- [x] Add the challenges component, which searches and returns, at random, challenges registered internally;
+- [x] Add the level up modal component;
+- [x] Implement written and audible notifications, which are displayed to the user at each finished cycle;
+- [x] Establish the reactivity of the entire application using the React API context;
 - [ ] Implement a multiple option login system;
 - [ ] Develop and implement a leaderboard based on users level;
 - [ ] Add a side navigation bar for the quick transition between the main screen and the leaderboard;
@@ -89,6 +89,7 @@ $ yarn dev
 
 # And finally, access <http://localhost:3000> to see the application on the local server
 ```
+
 <hr>
 
 ### 🔮 Applied technologies
@@ -104,7 +105,7 @@ $ yarn dev
 ### 🎓 Author
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="275px">
+    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
