@@ -94,6 +94,8 @@ $ yarn dev
 
 ### 🔮 Tecnologias utilizadas
 
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [ReactDOM](https://pt-br.reactjs.org/docs/react-dom.html)
