@@ -114,7 +114,9 @@ $ yarn dev
     <h3>
       🤝 Thiago Raniery Brito
     </h3>
-    <p>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.</p>
+    <p>
+      E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.
+    </p>
   </div>
   
   <div>
