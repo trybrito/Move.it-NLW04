@@ -1,14 +1,13 @@
 <div align="center">
+  <div>
     <img src="./assets/logo_moveit.svg" width="250px">
-</div>
+    <h1>Move.it</h1>
+    <h3>
+      🚀 ReactJS application that aims to address and facilitate the implementation of the Pomodoro Technique, as such, providing greater quality of life to its users
+    </h3>
+  </div>
 
-<h1 align="center">Move.it</h1>
-
-<h3 align="center">
-    🚀 ReactJS application that aims to address and facilitate the implementation of the Pomodoro Technique, as such, providing greater quality of life to its users
-</h3>
-
-<h4 align="center">
+  <p>
     <a href="#-about-the-project">About the project</a> •
     <a href="#-status">Status</a> •
     <a href="#-features">Features</a> • 
@@ -16,13 +15,14 @@
     <a href="#-applied-technologies">Applied technologies</a> • 
     <a href="#-author">Author</a> •
     <a href="#-readme-versions">README versions</a>
-</h4>
+  </p>
 
-<div align="center">
-    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=4CD62B&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=4CD62B&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=4CD62B&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=4CD62B&style=for-the-badge&logo=ghost"/>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=5965e0&style=for-the-badge&logo=ghost"/>
+  </div>
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 ### 🏁 Status
 
 <h3 align="center"> 
-	🚧  Move.it 🕹️ In progress... 🚧
+  🚧 Move.it 🕹️ In progress... 🚧
 </h3>
 
 <hr>
@@ -107,31 +107,31 @@ $ yarn dev
 ### 🎓 Author
 
 <div align="center">
-    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
-    <br />
-    <a href="https://twitter.com/JamesRyBrito">
-        <h3>
-        🤝 Thiago Raniery Ignacio Brito
-        </h3>
-    </a>
-    <h4>Hey Dev, did you like the application? Well, if you want, feel free to get in touch with me for here or through the tags below.<h4>
-    <br />
+  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+
+  <br />
+
+  <div>
+    <h3>
+      🤝 Thiago Raniery Brito
+    </h3>
+    <p>Hey Dev, did you like the application? Well, if you want, feel free to get in touch with me for here or through the tags below.</p>
+  </div>
+  
+  <div>
     <a href="https://www.linkedin.com/in/thiagoranierybrito/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/">
-        </img>
-    </a>
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" /></a>
     <a href="mailto:thiagobritotrs@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com">
-        </img>
-    </a>
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" /></a>
+  </div>
 </div>
 
 <hr>
 
 ### 📚 README versions
 
-<p>
-    <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
-        |   
-    <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
-</p>
+<div>
+  <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
+  |   
+  <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
+</div>
