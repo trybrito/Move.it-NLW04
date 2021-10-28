@@ -1,14 +1,13 @@
 <div align="center">
+  <div>
     <img src="./assets/logo_moveit.svg" width="250px">
-</div>
+    <h1>Move.it</h1>
+    <h3>
+      🚀 Aplicação ReactJS que objetiva abordar e facilitar a implementação da Técnica Pomodoro, tal qual, prover maior qualidade de vida aos seus usuários
+    </h3>
+  </div>
 
-<h1 align="center">Move.it</h1>
-
-<h3 align="center">
-    🚀 Aplicação ReactJS que objetiva abordar e facilitar a implementação da Técnica Pomodoro, tal qual, prover maior qualidade de vida aos seus usuários
-</h3>
-
-<h4 align="center">
+  <p>
     <a href="#-sobre-o-projeto">Sobre o projeto</a> •
     <a href="#-status">Status</a> •
     <a href="#-features">Features</a> • 
@@ -16,22 +15,22 @@
     <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
     <a href="#-autor">Autor</a> •
     <a href="#-readme-versions">README versions</a>
-</h4>
+  </p>
 
-<div align="center">
-    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=4CD62B&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=4CD62B&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=4CD62B&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=4CD62B&style=for-the-badge&logo=ghost"/>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=5965e0&style=for-the-badge&logo=ghost"/>
+  </div>
 </div>
 
-<br/>
 <hr>
 
 ### 🎯 Sobre o projeto
 
 <p>
-    Apoiando-se em uma abordagem gameficada, o Move.it visa aumentar a efetividade e tornar mais simples a aplicação da Técnica Pomodoro, isto é, um método cíclico de gerenciamento de tempo, bem como, aumentar a qualidade de vida de seu usuário, uma vez que a cada novo ciclo o mesmo receberá um desafio relacionado à sua saúde física e mental, como caminhar e se alongar.
+  Apoiando-se em uma abordagem gameficada, o Move.it visa aumentar a efetividade e tornar mais simples a aplicação da Técnica Pomodoro, isto é, um método cíclico de gerenciamento de tempo, bem como, aumentar a qualidade de vida de seu usuário, uma vez que a cada novo ciclo o mesmo receberá um desafio relacionado à sua saúde física e mental, como caminhar e se alongar.
 </p>
 
 <hr>
@@ -39,7 +38,7 @@
 ### 🏁 Status
 
 <h3 align="center"> 
-	🚧  Move.it 🕹️ Em construção... 🚧
+  🚧 Move.it 🕹️ Em construção... 🚧
 </h3>
 
 <hr>
@@ -107,31 +106,31 @@ $ yarn dev
 ### 🎓 Autor
 
 <div align="center">
-    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
-    <br />
-    <a href="https://twitter.com/JamesRyBrito">
-        <h3>
-        🤝 Thiago Raniery Ignacio Brito
-        </h3>
-    </a>
-    <h4>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.<h4>
-    <br />
+  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+
+  <br />
+
+  <div>
+    <h3>
+      🤝 Thiago Raniery Brito
+    </h3>
+    <p>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.</p>
+  </div>
+  
+  <div>
     <a href="https://www.linkedin.com/in/thiagoranierybrito/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/">
-        </img>
-    </a>
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" /></a>
     <a href="mailto:thiagobritotrs@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com">
-        </img>
-    </a>
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" /></a>
+  </div>
 </div>
 
 <hr>
 
 ### 📚 README versions
 
-<p>
-    <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
-        |   
-    <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
-</p>
+<div>
+  <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
+  |   
+  <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
+</div>
