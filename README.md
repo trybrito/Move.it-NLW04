@@ -73,13 +73,13 @@ Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a apl
 $ git clone <https://github.com/ThiagoBrito-Dev/Move.it-NLW04>
 
 # Acesse a pasta do projeto no terminal de comando
-$ cd Move.it-NLW04
+$ cd .../Move.it-NLW04
 
 # E depois, vá para o lugar onde a mágica acontece
-$ cd moveit-next
+$ cd ./moveit-next
 
 # Instale as dependências presentes no package.json
-$ yarn add / npm install
+$ yarn / npm install
 
 # Execute a aplicação pelo console
 $ yarn dev
