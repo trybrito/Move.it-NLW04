@@ -18,10 +18,9 @@
   </p>
 
   <div>
-    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=5965e0&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=5965e0&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=5965e0&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=5965e0&style=for-the-badge&logo=ghost"/>
   </div>
 </div>
 
@@ -45,20 +44,19 @@
 
 ### 🏆 Features
 
-- [x] Criar a estilização global da aplicação;
-- [x] Implementar a barra de experiência do usuário, que compreende a experiência inicial, atual e necessária para o próximo nível;
-- [x] Desenvolver o componente de perfil, que engloba a foto de perfil do usuário e seu nome e nível atual;
-- [x] Adicionar o componente responsável pela contagem dos desafios concluídos;
-- [x] Implementar o componente de cronômetro, responsável pela marcação do tempo de cada ciclo;
-- [x] Adicionar o componente dos desafios, o qual busca e retorna, de maneira aleatória, desafios cadastrados internamente;
-- [x] Adicionar o componente do modal de level up;
-- [x] Implementar notificações escritas e sonoras, que são exibidas ao usuário a cada ciclo encerrado;
-- [x] Estabelecer a reatividade de toda a aplicação a partir do uso da context API do React;
-- [ ] Implementar um sistema de login de múltiplas opções;
-- [ ] Desenvolver e implementar um leaderboard com base no nível dos usuário;
-- [ ] Adicionar uma barra de navegação lateral para a rápida transição entre a tela principal e o leaderboard;
-- [ ] Adicionar sistema de compartilhamento em redes sociais no modal de level up; e
-- [ ] Exibir informações relacionadas ao uso da aplicação para o usuário, como experiência total e tempo de uso;
+- [x] Exibir a barra de experiência do usuário, que compreende a experiência inicial, relativa ao nível do mesmo, a atual e a quantidade necessária para o próximo nível;
+- [x] Exibir informações relativas ao perfil do usuário, tais como foto, nome e nível atual;
+- [x] Exibir a contagem de desafios concluídos;
+- [x] Incrementar, quando um desafio for concluído, a contagem de desafios concluídos;
+- [x] Iniciar / parar a cronometragem do ciclo (Pomodoro) atual;
+- [x] Exibir, ao fim de um ciclo, isto é, quando o contador chegar a zero, um desafio aleatório ao usuário;
+- [x] Exibir, no momento em que o usuário obter experiência suficiente para subir de nível, o modal de parabenização;
+- [x] Notificar o usuário, de forma escrita e sonora, sobre o término do ciclo atual;
+- [ ] Realizar login social do usuário;
+- [ ] Implementar um leaderboard baseado nos níveis atuais dos usuários;
+- [ ] Implementar barra de navegação lateral para a rápida transição entre as telas da aplicação;
+- [ ] Habilitar o compartilhamento, por meio das redes sociais do usuário, do modal de parabenização; e
+- [ ] Exibir informações relacionadas ao uso da aplicação, como tempo de uso e experiência total obtida, no modal de parabenização.
 
 <hr>
 
