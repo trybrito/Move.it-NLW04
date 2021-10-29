@@ -71,7 +71,7 @@ Well, having everything installed, we can proceed to the step-by-step of how to 
 
 ```bash
 # First of all, clone this repository with GIT
-$ git clone <https://github.com/ThiagoBrito-Dev/Move.it-NLW04>
+$ git clone <https://github.com/trybrito/Move.it-NLW04>
 
 # Access the project folder
 $ cd .../Move.it-NLW04
@@ -105,7 +105,7 @@ $ yarn dev
 ### 🎓 Author
 
 <div align="center">
-  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+  <img src="https://github.com/trybrito.png" width="250px" />
 
   <br />
 
@@ -131,7 +131,7 @@ $ yarn dev
 ### 📚 README versions
 
 <div>
-  <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
+  <a href="https://github.com/trybrito/Move.it-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
   |   
-  <a href="https://github.com/ThiagoBrito-Dev/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
+  <a href="https://github.com/trybrito/Move.it-NLW04/blob/main/README-en.md">English (en-us)</a>
 </div>
