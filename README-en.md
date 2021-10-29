@@ -18,10 +18,9 @@
   </p>
 
   <div>
-    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=5965e0&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=5965e0&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=5965e0&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=5965e0&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=5965e0&style=for-the-badge&logo=ghost"/>
   </div>
 </div>
 
@@ -31,7 +30,7 @@
 ### 🎯 About the project
 
 <p>
-    Based on a gamified approach, Move.it aims to increase the effectiveness and simplify the application of the Pomodoro Technique, that is, a cyclic method of time management, as well as, to increase the quality of life of its user, a since with each new cycle he will receive a challenge related to his physical and mental health, such as walking and stretching.
+  Based on a gamified approach, Move.it aims to increase the effectiveness and simplify the application of the Pomodoro Technique, that is, a cyclic method of time management, as well as, to increase the quality of life of its user, a since with each new cycle he will receive a challenge related to his physical and mental health, such as walking and stretching.
 </p>
 
 <hr>
@@ -46,20 +45,19 @@
 
 ### 🏆 Features
 
-- [x] Create the global styles of the application;
-- [x] Implement the user experience bar, which comprises the initial, current and necessary experience for the next level;
-- [x] Develop the profile component, which includes the user's profile photo and your name and current level;
-- [x] Add the component responsible for counting the completed challenges;
-- [x] Implement the chronometer component, responsible for marking the time of each cycle;
-- [x] Add the challenges component, which searches and returns, at random, challenges registered internally;
-- [x] Add the level up modal component;
-- [x] Implement written and audible notifications, which are displayed to the user at each finished cycle;
-- [x] Establish the reactivity of the entire application using the React API context;
-- [ ] Implement a multiple option login system;
-- [ ] Develop and implement a leaderboard based on users level;
-- [ ] Add a side navigation bar for the quick transition between the main screen and the leaderboard;
-- [ ] Add sharing system on social networks in the level up modal; and
-- [ ] Display information related to the use of the application to the user, such as total experience and time of use;
+- [x] Display the user experience bar, which comprises the initial experience, relative to the user's level, the current one and the amount needed for the next level;
+- [x] Display information related to the user's profile, such as photo, name and current level;
+- [x] Display the completed challenges count;
+- [x] Increment, when a challenge is completed, the count of completed challenges;
+- [x] Start / stop timing of current cycle;
+- [x] Display, at the end of a cycle, that is, when the counter reaches zero, a random challenge to the user;
+- [x] Display, when the user gets enough experience to level up, the congratulation modal;
+- [x] Notify the user, in writing and audibly, about the end of the current cycle;
+- [ ] Perform user social login;
+- [ ] Implement a leaderboard based on users current levels;
+- [ ] Implement side navigation bar for quick transition between application screens;
+- [ ] Enable the sharing, through the user's social networks, of the congratulation modal; and
+- [ ] Display information related to the use of the application, such as usage time and total experience obtained, on the congratulation modal.
 
 <hr>
 
